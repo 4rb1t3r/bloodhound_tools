@@ -1,8 +1,8 @@
 # bloodhound_tools
 
-Tested with Bloodhound 9.4.0.
+#H1 Tested with Bloodhound 9.4.0.
 
-Takes results from Bloodhound exports (JSON) and converts the results into a CSV for reporting. 
+#H2 Takes results from Bloodhound exports (JSON) and converts the results into a CSV for reporting. 
 
 This PowerShell script can take the results of a Bloodhound export and convert the results into a CSV file. This can be helpful for Blue Team/Purple Teams to display Bloodhound data to IAM/ access management groups without needing to provide them access to Bloodhound. You can chose the field you are looking for so long as it is a field in the export. Some sample field names include id, label, and type.
 
