@@ -1,6 +1,6 @@
 # bloodhound_tools
 
-## Takes results from Bloodhound exports (JSON) and converts the results into a CSV for reporting. 
+### Takes results from Bloodhound exports (JSON) and converts the results into a CSV for reporting. 
 
 ### Tested with Bloodhound 9.4.0.
 
