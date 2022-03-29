@@ -1,4 +1,4 @@
-# bloodhound_tools
+# Bloodhound_json_to_csv.ps1
 
 ### Takes results from Bloodhound exports (JSON) and converts the results into a CSV for reporting. 
 
